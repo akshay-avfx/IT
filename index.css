@@ -16,6 +16,25 @@ body
    margin: 0;
    text-align: center;
 }
+#Shape2
+{
+   border-width: 0;
+   vertical-align: top;
+}
+#Shape2
+{
+   filter: drop-shadow(0px 0px 5px rgba(220,220,220,0.20));
+}
+#Shape3
+{
+   border-width: 0;
+   vertical-align: top;
+}
+#Shape1
+{
+   border-width: 0;
+   vertical-align: top;
+}
 #Layer1
 {
    background-color: #BF0603;
@@ -36,20 +55,6 @@ body
 {
    text-align: left;
 }
-#Shape2
-{
-   border-width: 0;
-   vertical-align: top;
-}
-#Shape2
-{
-   filter: drop-shadow(0px 0px 5px rgba(220,220,220,0.20));
-}
-#Shape1
-{
-   border-width: 0;
-   vertical-align: top;
-}
 #wb_Text2 
 {
    background-color: transparent;
@@ -63,11 +68,6 @@ body
 #wb_Text2 div
 {
    text-align: center;
-}
-#Shape4
-{
-   border-width: 0;
-   vertical-align: top;
 }
 #wb_Image1
 {
